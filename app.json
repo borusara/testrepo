@@ -17,8 +17,5 @@
       "description": "The URL to the PostgreSQL database",
       "required": true
     }
-  },
-  "scripts": {
-    "postdeploy": "php db-migrate.php"
   }
 }
