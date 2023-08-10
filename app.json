@@ -1,11 +1,11 @@
 {
   "name": "YourApp",
   "description": "A PHP app with PostgreSQL on Heroku",
-  "repository": "https://github.com/borusara/testrepo.git",
+  "repository": "https://github.com/yourusername/yourapp.git",
   "language": "php",
   "stack": "heroku-22",
   "addons": [
-    "heroku-postgresql:hobby-dev"
+    "heroku-postgresql"
   ],
   "buildpacks": [
     {
